@@ -2,8 +2,6 @@
 
 🔥 Passionate, motivated and curious
 
-👩‍💻 Striving to become a Full-Stack Developer
-
 🧠 Currently learning new skills at [Epicode Shool](https://epicode.com/en/web-developer-course/)
 
 ![michael-scott QUOTE](https://user-images.githubusercontent.com/114186546/202560430-531923cd-2441-4a25-bb83-a3824d68d24e.png)
@@ -17,8 +15,6 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaM7&theme=calm&show_icons=true)
 
 ## Contact me!
 
