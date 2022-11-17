@@ -18,6 +18,8 @@
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaM7&theme=calm&show_icons=true)
+
 ## Contact me!
 
 <a href="https://www.linkedin.com/in/marina-muntenita-430a7521b/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561150-216d1d34-7c6a-402f-a42b-1576f66cc05f.png"></a> Linkedin
