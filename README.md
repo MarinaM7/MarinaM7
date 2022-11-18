@@ -18,11 +18,11 @@
 
 ## Contact me!
 
-<a href="https://www.linkedin.com/in/marina-muntenita-430a7521b/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561150-216d1d34-7c6a-402f-a42b-1576f66cc05f.png"></a> Linkedin
+<a href="https://www.linkedin.com/in/marina-muntenita-430a7521b/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561150-216d1d34-7c6a-402f-a42b-1576f66cc05f.png"> Linkedin </a>
 
-<a href="https://www.instagram.com/marinamilitare7/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202560677-4f3833d0-ac38-4ab5-a472-6fc03705d5dc.png"></a> Instagram
+<a href="https://www.instagram.com/marinamilitare7/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202560677-4f3833d0-ac38-4ab5-a472-6fc03705d5dc.png"> Instagram </a>
 
-<a href="https://twitter.com/Marinaclub7"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561250-2c52583f-9408-447b-9a5d-4bb8d6d68769.png"></a> Twitter
+<a href="https://twitter.com/Marinaclub7"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561250-2c52583f-9408-447b-9a5d-4bb8d6d68769.png"> Twitter </a>
 
 💬 My email: marinamuntenita@gmail.com
 
