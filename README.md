@@ -4,7 +4,7 @@
 
 🧠 Currently learning new skills at [Epicode Shool](https://epicode.com/en/web-developer-course/)
 
-![michael-scott QUOTE](https://user-images.githubusercontent.com/114186546/202560430-531923cd-2441-4a25-bb83-a3824d68d24e.png)
+<img width="500px" src="https://user-images.githubusercontent.com/114186546/202560430-531923cd-2441-4a25-bb83-a3824d68d24e.png">
 
 ## Front-end languages and frameworks
 
@@ -16,13 +16,13 @@
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaM7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact me!
 
-<a href="https://www.linkedin.com/in/marina-muntenita-430a7521b/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561150-216d1d34-7c6a-402f-a42b-1576f66cc05f.png"> Linkedin </a>
-
-<a href="https://www.instagram.com/marinamilitare7/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202560677-4f3833d0-ac38-4ab5-a472-6fc03705d5dc.png"> Instagram </a>
-
-<a href="https://twitter.com/Marinaclub7"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561250-2c52583f-9408-447b-9a5d-4bb8d6d68769.png"> Twitter </a>
+<a href="https://www.linkedin.com/in/marina-muntenita-430a7521b/" style="margin-right: 20px;"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561150-216d1d34-7c6a-402f-a42b-1576f66cc05f.png"></a><span> &nbsp;&nbsp; </span>
+<a href="https://www.instagram.com/marinamilitare7/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202560677-4f3833d0-ac38-4ab5-a472-6fc03705d5dc.png"></a><span> &nbsp;&nbsp; </span>
+<a href="https://twitter.com/Marinaclub7"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561250-2c52583f-9408-447b-9a5d-4bb8d6d68769.png"></a><span> &nbsp;&nbsp; </span>
 
 💬 My email: marinamuntenita@gmail.com
 
