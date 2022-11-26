@@ -1,4 +1,5 @@
-![Banners](https://user-images.githubusercontent.com/114186546/204063964-547df653-f2af-44e9-ab31-82161d6ce069.png)
+![Banners (1)](https://user-images.githubusercontent.com/114186546/204066319-84ebf280-f33f-4994-9fda-15a25f442c14.png)
+
 
 # Hello, I'm Marina🌴
 
