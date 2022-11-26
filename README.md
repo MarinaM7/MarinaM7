@@ -7,7 +7,7 @@
 
 🧑🏻‍💻 I am 20 y/o and willing to start my career in the tech industry and to improve myself by learning new skills and collaborating with professionals.
 
-🧠 Currently learning by creating at [Epicode Shool](https://epicode.com/en/web-developer-course/)
+🧠 Currently studying at [Epicode Shool](https://epicode.com/en/web-developer-course/)
 
 ## my contacts
 
