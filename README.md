@@ -2,7 +2,9 @@
 
 # Hello, I'm Marina🌴
 
-🔥 Passionate, motivated and curious
+🔥 Passionate, motivated and curious.
+
+🧑🏻‍💻I am 20 y/o and willing to start my career in the tech industry and to improve myself by learning new skills and collaborating with professionals.
 
 🧠 Currently learning new skills at [Epicode Shool](https://epicode.com/en/web-developer-course/)
 
@@ -12,7 +14,7 @@
 <a href="https://www.instagram.com/marinamilitare7/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202560677-4f3833d0-ac38-4ab5-a472-6fc03705d5dc.png"></a><span> &nbsp;&nbsp; </span>
 <a href="https://twitter.com/Marinaclub7"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561250-2c52583f-9408-447b-9a5d-4bb8d6d68769.png"></a><span> &nbsp;&nbsp; </span>
 
-💬 My email: marinamuntenita@gmail.com
+💬 my email: marinamuntenita@gmail.com
 
 ## Front-end languages and frameworks
 
@@ -27,6 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaM7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mood🫀
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=212iqics5w4dvt737mvy2oqli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=212iqics5w4dvt737mvy2oqli&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 ![](https://komarev.com/ghpvc/?username=MarinaM7&style=for-the-badge)
