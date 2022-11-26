@@ -4,9 +4,9 @@
 
 🔥 Passionate, motivated and curious.
 
-🧑🏻‍💻I am 20 y/o and willing to start my career in the tech industry and to improve myself by learning new skills and collaborating with professionals.
+🧑🏻‍💻 I am 20 y/o and willing to start my career in the tech industry and to improve myself by learning new skills and collaborating with professionals.
 
-🧠 Currently learning new skills at [Epicode Shool](https://epicode.com/en/web-developer-course/)
+🧠 Currently learning by creating at [Epicode Shool](https://epicode.com/en/web-developer-course/)
 
 ## my contacts
 
