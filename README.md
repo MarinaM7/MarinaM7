@@ -17,7 +17,7 @@
 
 💬 my email: marinamuntenita@gmail.com
 
-## Languages and frameworks
+## Languages and frameworks 📚
 
 ### Front-End
 
