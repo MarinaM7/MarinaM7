@@ -2,7 +2,7 @@
 
 
 # Hello, I'm Marina🌴
-
+  
 🔥 Passionate, motivated and curious.
 
 🧑🏻‍💻 I am 20 y/o and willing to start my career in the tech industry
@@ -33,8 +33,6 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaM7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mood🫀
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=212iqics5w4dvt737mvy2oqli&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
