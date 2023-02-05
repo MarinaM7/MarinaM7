@@ -34,6 +34,7 @@
 ### Back-End <img width="32px" src="https://user-images.githubusercontent.com/114186546/211934601-afeb2338-4af9-41ce-a919-4790f64442e8.png">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarinaM7&layout=compact&theme=nightowl&hide=css)](https://github.com/anuraghazra/github-readme-stats)
