@@ -11,7 +11,7 @@
 
 ## my contacts
 
-<a href="https://www.linkedin.com/in/marina-muntenita-430a7521b/" style="margin-right: 20px;"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561150-216d1d34-7c6a-402f-a42b-1576f66cc05f.png"></a><span> &nbsp;&nbsp; </span>
+<a href="https://www.linkedin.com/in/marina-muntenita-jr-fullstack-dev/" style="margin-right: 20px;"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561150-216d1d34-7c6a-402f-a42b-1576f66cc05f.png"></a><span> &nbsp;&nbsp; </span>
 <a href="https://www.instagram.com/marinamilitare7/"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202560677-4f3833d0-ac38-4ab5-a472-6fc03705d5dc.png"></a><span> &nbsp;&nbsp; </span>
 <a href="https://twitter.com/Marinaclub7"><img width="30px" src="https://user-images.githubusercontent.com/114186546/202561250-2c52583f-9408-447b-9a5d-4bb8d6d68769.png"></a><span> &nbsp;&nbsp; </span>
 
