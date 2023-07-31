@@ -5,9 +5,11 @@
   
 🔥 Passionate, motivated and curious.
 
-🧑🏻‍💻 I am 20 y/o and willing to start my career in the tech industry
+🧑🏻‍💻 I am 21 y/o and always looking for new ways to improove my career in the tech industry.
 
-🧠 Currently studying at [Epicode Shool](https://epicode.com/en/web-developer-course/)
+🧠 Former student at [Epicode Shool](https://epicode.com/en/web-developer-course/)
+
+🏀 Currently working as a Front-End Developer at SBAM SRL.
 
 ## Contact me!
 
