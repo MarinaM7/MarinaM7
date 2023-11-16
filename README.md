@@ -9,7 +9,7 @@
 
 🧠 Former student at [Epicode Shool](https://epicode.com/en/web-developer-course/)
 
-🏀 Currently working as a Front-End Developer at SBAM SRL.
+🏀 Currently working as a Web Developer at [Goldnet Srl](https://www.goldnet.it/).
 
 ## Contact me!
 
