@@ -5,11 +5,11 @@
   
 🔥 Passionate, motivated and curious.
 
-🧑🏻‍💻 I am 21 y/o and always looking for new ways to improove my career in the tech industry.
+🧑🏻‍💻 I am 21 y/o and always looking for new ways to improove my career.
 
 🧠 Former student at [Epicode Shool](https://epicode.com/en/web-developer-course/)
 
-🏀 Currently working as a Web Developer at [Goldnet Srl](https://www.goldnet.it/).
+🏢 Currently working as a Web Developer at [Goldnet Srl](https://www.goldnet.it/).
 
 ## Contact me!
 
