@@ -7,7 +7,7 @@
 
 🧑🏻‍💻 I am 21 y/o and always looking for new ways to improove my career.
 
-🧠 Former student at [Epicode Shool](https://epicode.com/en/web-developer-course/)
+🧠 Former student at [Epicode Shool](https://epicode.com/en/web-developer-course/) and Graduated march 2023
 
 🏢 Currently working as a Web Developer at [Goldnet Srl](https://www.goldnet.it/).
 
